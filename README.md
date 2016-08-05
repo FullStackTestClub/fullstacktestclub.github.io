@@ -1,2 +1,2 @@
 # fullstacktestclub.github.io
-my blob
+my blog
